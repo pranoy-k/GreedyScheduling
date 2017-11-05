@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493664701 source:d:\codes\greedy_scheduling\main.cpp
+	<iostream>
+	<fstream>
+
